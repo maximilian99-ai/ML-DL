@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>EnablePressuredExit</key>
+	<true/>
+	<key>Label</key>
+	<string>com.apple.SafariPlugInUpdateNotifier</string>
+	<key>Program</key>
+	<string>/Library/Apple/System/Library/CoreServices/SafariSupport.bundle/Contents/MacOS/SafariPlugInUpdateNotifier</string>
+	<key>LaunchEvents</key>
+	<dict>
+		<key>com.apple.fsevents.matching</key>
+		<dict>
+			<key>UserFlashPlugInModified</key>
+			<dict>
+				<key>Path</key>
+				<string>~/Library/Internet Plug-Ins/Flash Player.plugin</string>
+			</dict>
+			<key>SystemFlashPlugInModified</key>
+			<dict>
+				<key>Path</key>
+				<string>/Library/Internet Plug-Ins/Flash Player.plugin</string>
+			</dict>
+		</dict>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,2 @@
+컬럼의 순서는 SepalLength, SepalWidth, PetalLength, PetalWidth 그리고 Species 입니다. 
+꽃의 종류는 Setosa, Versicolor 그리고 Virginica으로 각각 숫자로 0, 1, 2

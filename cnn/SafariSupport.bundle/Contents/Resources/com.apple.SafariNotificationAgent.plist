@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>EnablePressuredExit</key>
+	<true/>
+	<key>KeepAlive</key>
+	<false/>
+	<key>Label</key>
+	<string>com.apple.SafariNotificationAgent</string>
+	<key>LaunchEvents</key>
+	<dict>
+		<key>com.apple.usernotificationcenter.matching</key>
+		<dict>
+			<key>com.apple.SafariNotificationAgent</key>
+			<dict>
+				<key>events</key>
+				<array>
+					<string>didDeliverNotification</string>
+					<string>didActivateNotification</string>
+				</array>
+				<key>webcenter</key>
+				<true/>
+			</dict>
+		</dict>
+	</dict>
+	<key>MachServices</key>
+	<dict>
+		<key>com.apple.SafariNotificationAgent</key>
+		<true/>
+	</dict>
+	<key>Program</key>
+	<string>/Library/Apple/System/Library/CoreServices/SafariSupport.bundle/Contents/MacOS/SafariNotificationAgent</string>
+</dict>
+</plist>

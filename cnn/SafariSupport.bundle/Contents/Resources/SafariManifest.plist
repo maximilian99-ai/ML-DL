@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Files</key>
+	<array>
+		<string>/Library/Apple/usr/share/man/man8/SafariLaunchAgent.8</string>
+		<string>/Library/Apple/usr/share/man/man8/SafariNotificationAgent.8</string>
+		<string>/Library/Apple/usr/share/man/man8/PasswordBreachAgent.8</string>
+		<string>/Library/Apple/usr/share/man/man8/SafariBookmarksSyncAgent.8</string>
+		<string>/Library/Apple/usr/share/man/man8/webinspectord.8</string>
+		<string>/Library/Apple/usr/share/man/man8/SafariHistoryServiceAgent.8</string>
+		<string>/Library/Apple/usr/share/man/man8/SafariCloudHistoryPushAgent.8</string>
+		<string>/Library/Apple/usr/share/man/man8/SafariPlugInUpdateNotifier.8</string>
+		<string>/Library/Apple/usr/share/man/man1/safaridriver.1</string>
+		<string>/Library/Apple/System/Library/Assistant/Plugins/Safari.assistantBundle/</string>
+		<string>/Library/Apple/System/Library/StagedFrameworks/Safari/libwebrtc.dylib</string>
+		<string>/Library/Apple/System/Library/StagedFrameworks/Safari/SafariCore.framework/</string>
+		<string>/Library/Apple/System/Library/StagedFrameworks/Safari/WebInspector.framework/</string>
+		<string>/Library/Apple/System/Library/StagedFrameworks/Safari/WebCore.framework/</string>
+		<string>/Library/Apple/System/Library/StagedFrameworks/Safari/WebInspectorUI.framework/</string>
+		<string>/Library/Apple/System/Library/StagedFrameworks/Safari/Safari.framework/</string>
+		<string>/Library/Apple/System/Library/StagedFrameworks/Safari/WebKitLegacy.framework/</string>
+		<string>/Library/Apple/System/Library/StagedFrameworks/Safari/WebDriver.framework/</string>
+		<string>/Library/Apple/System/Library/StagedFrameworks/Safari/WebKit.framework/</string>
+		<string>/Library/Apple/System/Library/StagedFrameworks/Safari/SafariFoundation.framework/</string>
+		<string>/Library/Apple/System/Library/StagedFrameworks/Safari/AuthenticationServices.framework/</string>
+		<string>/Library/Apple/System/Library/StagedFrameworks/Safari/SafariShared.framework/</string>
+		<string>/Library/Apple/System/Library/StagedFrameworks/Safari/JavaScriptCore.framework/</string>
+		<string>/Library/Apple/System/Library/StagedFrameworks/Safari/SafariSharedUI.framework/</string>
+		<string>/Library/Apple/System/Library/CoreServices/SafariSupport.bundle/</string>
+		<string>/Library/Apple/System/Library/Accounts/Notification/CloudBookmarksAccountsNotifier.bundle/</string>
+		<string>/Library/Apple/System/Library/FeatureFlags/Domain/WebKit.plist</string>
+		<string>/Library/Apple/System/Library/Frameworks/SafariServices.framework/</string>
+		<string>/Library/Preferences/Logging/Subsystems/com.apple.WebInspector.plist</string>
+		<string>/Applications/Safari.app/</string>
+	</array>
+	<key>Version</key>
+	<string>16610.4.3.1.7</string>
+</dict>
+</plist>

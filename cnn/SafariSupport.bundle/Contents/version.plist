@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BuildAliasOf</key>
+	<string>SafariBookmarksSyncAgent</string>
+	<key>BuildVersion</key>
+	<string>5</string>
+	<key>CFBundleShortVersionString</key>
+	<string>16610</string>
+	<key>CFBundleVersion</key>
+	<string>16610.4.3.1.7</string>
+	<key>ProjectName</key>
+	<string>SafariBookmarksSyncAgent</string>
+	<key>SourceVersion</key>
+	<string>7610004003001007</string>
+</dict>
+</plist>

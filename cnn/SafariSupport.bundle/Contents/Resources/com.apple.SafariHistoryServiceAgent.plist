@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Label</key>
+	<string>com.apple.SafariHistoryServiceAgent</string>
+	<key>Program</key>
+	<string>/Library/Apple/System/Library/CoreServices/SafariSupport.bundle/Contents/MacOS/SafariHistoryServiceAgent</string>
+	<key>KeepAlive</key>
+	<dict>
+		<key>PathState</key>
+		<dict>
+			<key>~/Library/Safari/ClearHistoryInProgress</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
